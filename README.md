@@ -2,7 +2,7 @@
 
 Skate Street é um jogo 2D desenvolvido em **Python** utilizando a biblioteca **Pygame**. O objetivo é controlar um skatista, desviar de obstáculos e sobreviver o maior tempo possível para alcançar a maior pontuação.
 
-Este projeto foi desenvolvido com foco no aprendizado de desenvolvimento de jogos, programação orientada a objetos e manipulação de eventos em Python.
+Este projeto foi desenvolvido com foco na programação orientada a objetos e manipulação de eventos em Python.
 
 ---
 
@@ -121,8 +121,6 @@ Durante o desenvolvimento foram utilizados diversos conceitos importantes de pro
 ## 👨‍💻 Autor
 
 **Caique Reis**
-
-Estudante de Análise e Desenvolvimento de Sistemas.
 
 ---
 
